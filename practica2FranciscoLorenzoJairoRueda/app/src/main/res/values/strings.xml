@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practica2_FranciscoLorenzo_JairoRueda</string>
+    <string name="nickname">NickName</string>
+    <string name="start">START GAME</string>
+    <string name="cLetter">Check letter</string>
+    <string name="cWord">Check word</string>
+    <string name="pos">POSITION</string>
+    <string name="nick">NICKNAME</string>
+    <string name="points">POINTS</string>
+    <string name="numGames">NUMGAMES</string>
+    <string name="game">GAME</string>
+</resources>
